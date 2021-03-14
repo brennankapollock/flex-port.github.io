@@ -93,11 +93,19 @@ section {
 
 .about-me .item-text {
     padding: 10px;
+    padding-bottom: 25px;
+    margin-bottom: 10px;
 }
 
 .item-text img {
     margin-top: -10%;
     
+}
+
+.anchor-bord {
+    border-style:inset;
+    padding-left: 5px;
+    padding-right: 5px;
 }
 
 
